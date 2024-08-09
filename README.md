@@ -1,6 +1,6 @@
 This is a multi-user blog project implemented using Vue.js, Vuex, and Firebase.
 
-##I developed components like:
+## I developed components like:
 
 Home Page (Blog post component, Register section, Blog card component)
 
